@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>business_service</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>100</order>
+        <record_id_field/>
+        <screen display_value="Details">c0d28941dbb7001078cbbd5139961977</screen>
+        <screen_data_item_table>x_460511_loner_req_loner_request</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 04:19:44</sys_created_on>
+        <sys_id>88d28941dbb7001078cbbd513996198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_service</sys_name>
+        <sys_package display_value="loner_request" source="x_460511_loner_req">f6c10501dbb7001078cbbd5139961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loner_request">f6c10501dbb7001078cbbd5139961990</sys_scope>
+        <sys_update_name>sys_sg_screen_field_88d28941dbb7001078cbbd513996198c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 04:19:44</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=88d28941dbb7001078cbbd513996198c"/>
+</record_update>

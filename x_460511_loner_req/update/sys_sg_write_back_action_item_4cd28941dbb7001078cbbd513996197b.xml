@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (loner request)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 04:19:44</sys_created_on>
+        <sys_id>4cd28941dbb7001078cbbd513996197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (loner request)</sys_name>
+        <sys_package display_value="loner_request" source="x_460511_loner_req">f6c10501dbb7001078cbbd5139961990</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="loner_request">f6c10501dbb7001078cbbd5139961990</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_4cd28941dbb7001078cbbd513996197b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 04:19:44</sys_updated_on>
+        <table>x_460511_loner_req_loner_request</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4cd28941dbb7001078cbbd513996197b"/>
+</record_update>
